@@ -1,6 +1,6 @@
 {
-  "name": "Reel insights",
-  "short_name": "Reel insights",
+  "name": "Instagram",
+  "short_name": "Instagram",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
